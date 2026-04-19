@@ -22,11 +22,11 @@ pip install -r requirements.txt
 python test.py
 
 ## 📌 Citation
-@inproceedings{ghosh2026dgssm,
-  title     = {DGSSM: Diffusion Guided State-Space Models for Multimodal Salient Object Detection},
-  author    = {Ghosh, Suklav and Sur, Arijit and Mitra, Pinaki},
-  booktitle = {Proceedings of the 27th International Conference on Pattern Recognition (ICPR)},
-  pages     = {xxx--xxx},
-  year      = {2026},
-  organization = {Springer}
+@inproceedings{ghosh2026dgssm,  
+  title     = {DGSSM: Diffusion Guided State-Space Models for Multimodal Salient Object Detection},  
+  author    = {Ghosh, Suklav and Sur, Arijit and Mitra, Pinaki},  
+  booktitle = {Proceedings of the 27th International Conference on Pattern Recognition (ICPR)},  
+  pages     = {xxx--xxx},  
+  year      = {2026},  
+  organization = {Springer}  
 }
